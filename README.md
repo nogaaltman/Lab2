@@ -61,7 +61,7 @@ You should now see the changes you had made are also in the `main` branch.
   - we suggest you check off this last item, commit that change (just right on the main branch is fine;
   no need to branch for this little step), then push your code. Check GitHub to ensure you can
   see your changes.
-
+//
 And that's it for Task 1! You might be wondering about how we are supposed to get someone else
 to review and approve our changes before we push our changes to the main branch of
 our remote repository, since everything we just did was local. We'll explore how to do precisely
